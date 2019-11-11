@@ -1,4 +1,4 @@
-=To begin import ray tracer and genpolar at terminal.
+To begin import ray tracer and genpolar at terminal.
 
 Then define a simple bundlerays method to iterate over the rtpairs method in genpolar which should create ray objects and store their positions and direction using the append method in raytracer.
 
